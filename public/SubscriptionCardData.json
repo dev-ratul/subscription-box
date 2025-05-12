@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "Barcelona",
+    "logo": "https://i.postimg.cc/xdrvjGXS/b97e2da50337c93b312e6e95fade022f.png",
+    "thumbnail": "https://i.postimg.cc/2S1w910c/beneficis-football-tickets-blur-EN-1.jpg",
+    "banner": "https://example.com/images/barcelona-banner.jpg",
+    "frequency": "Yearly",
+    "description": "Celebrate the spirit of Barça with exclusive merchandise, digital content, and collectible cards.",
+    "tech_category": "Football Club",
+    "features": [
+      "Official Barcelona Merchandise",
+      "Behind-the-scenes Content",
+      "Barça Fan Collectibles"
+    ],
+    "subscription_benefits": [
+      "Priority Tickets for Matches",
+      "Exclusive Barca Content",
+      "Early Access to New Kits"
+    ],
+    "membership_cards": [
+      {
+        "title": "Culer Basic",
+        "image": "https://i.postimg.cc/SxpvDDmK/Whats-App-Image-2025-05-06-at-23-14-51.jpg",
+        "price": 9.76,
+        "benefits": ["Newsletter Access", "Exclusive Videos","5% Store Discount"]
+      },
+      {
+        "title": "Culer Plus",
+        "image": "https://i.postimg.cc/1XwKF1nr/Whats-App-Image-2025-05-06-at-23-14-51-1.jpg",
+        "price": 19.99,
+        "benefits": ["Priority Tickets","Newsletter Access", "Exclusive Videos"]
+      },
+      {
+        "title": "Culer Premium",
+        "image": "https://i.postimg.cc/vBSfpVG2/Whats-App-Image-2025-05-06-at-01-23-50.jpg",
+        "price": 39.99,
+        "benefits": ["Meet & Greet Draws", "15% Store Discount", "All Culer Plus Benefits"]
+      }
+    ],
+    "ratings": 4.9,
+    "number_of_reviews": 1024
+  },
+  {
+    "id": 2,
+    "name": "Real Madrid",
+    "thumbnail": "https://wallpapercave.com/wp/wp11012453.jpg",
+    "banner": "https://example.com/images/realmadrid-banner.jpg",
+    "logo": "https://i.postimg.cc/SsG1F68S/584a9b47b080d7616d298778.png",
+    "frequency": "Yearly",
+    "description": "Get closer to Los Blancos with Real Madrid fan gear, cards, and premium content.",
+    "tech_category": "Football Club",
+    "features": [
+      "Authentic RM Merchandise",
+      "Player Insights & Interviews",
+      "Exclusive Cards"
+    ],
+    "subscription_benefits": [
+      "Discount on RM Store",
+      "Exclusive Wallpapers and Videos",
+      "Early Match Access"
+    ],
+    "membership_cards": [
+      {
+        "title": "Madridista",
+        "image": "https://i.postimg.cc/nVKX5LJG/Madridista-premium.png",
+        "price": 12.1,
+        "benefits": ["RM Play free content","Exclusive Videos", "5% online store discount"]
+      },
+      {
+        "title": "Madridista Junior",
+        "image": "https://i.postimg.cc/NGRsMCCs/Add-a-heading.png",
+        "price": 20,
+        "benefits": ["Physical card", "Ticket presales", "Surprise gift"]
+      },
+      {
+        "title": "Madridista Premium",
+        "image": "https://i.postimg.cc/CM2Gh1tT/Add-a-heading-1.png",
+        "price": 35,
+        "benefits": ["Full RM Play Access", "15% store discount", "Ticket presales"]
+      }
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 980
+  },
+  {
+    "id": 3,
+    "name": "Arsenal",
+    "thumbnail": "https://i.postimg.cc/jdzjdSQ9/fa-cup-win-2014-s84rlfy9.avif",
+    "banner": "https://example.com/images/arsenal-banner.jpg",
+    "logo": "https://i.postimg.cc/W1rncmLB/580b57fcd9996e24bc43c4df.png",
+    "frequency": "Yearly",
+    "description": "Join the Gunners with a box full of official Arsenal items and exclusive fan content.",
+    "tech_category": "Football Club",
+    "features": [
+      "Arsenal Posters and Apparel",
+      "Player Stats Cards",
+      "History & Highlights"
+    ],
+    "subscription_benefits": [
+      "Special Discounts on Arsenal Store",
+      "Fan Challenges & Giveaways",
+      "Exclusive Matchday Content"
+    ],
+    "membership_cards": [
+      {
+        "title": "Red Member",
+        "image": "https://i.postimg.cc/bYZBmvRW/membershiptype339.jpg",
+        "price": 10,
+        "benefits": ["Meet & Greet Draws", "15% Store Discount", "All Culer Plus Benefits"]
+      },
+      {
+        "title": "Silver Member",
+        "image": "https://i.postimg.cc/KcCswyqz/membershiptype445.jpg",
+        "price": 25,
+        "benefits": ["Full RM Play Access", "15% store discount", "Ticket presales"]
+      },
+      {
+        "title": "Gold Member",
+        "image": "https://i.postimg.cc/7hJ00d0t/membershiptype51.jpg",
+        "price": 50,
+        "benefits": ["Best Match Tickets", "Store Discounts", "Monthly Draws"]
+      }
+    ],
+    "ratings": 4.6,
+    "number_of_reviews": 860
+  },
+  {
+    "id": 4,
+    "name": "Manchester United",
+    "thumbnail": "https://i.postimg.cc/PJxdZYzM/mark-mc-neill-qahbn44-Lczo-unsplash.jpg",
+    "logo": "https://i.postimg.cc/6psrc72Y/580b57fcd9996e24bc43c4e7.png",
+    "banner": "https://example.com/images/manutd-banner.jpg",
+    "frequency": "Yearly",
+    "description": "For the Red Devils faithful — a premium pack with iconic merchandise and United history.",
+    "tech_category": "Football Club",
+    "features": [
+      "Official Man Utd Jersey Items",
+      "United History Booklet",
+      "Player Highlight Cards"
+    ],
+    "subscription_benefits": [
+      "Early Access to Tickets",
+      "Official Fan Group Invite",
+      "Man Utd Wallpapers"
+    ],
+    "membership_cards": [
+      {
+        "title": "Red Pass",
+        "image": "https://i.postimg.cc/wBYDKgn6/1.webp",
+        "price": 5,
+        "benefits": ["Full RM Play Access", "15% store discount", "Ticket presales"]
+      },
+      {
+        "title": "Devils Choice",
+        "image": "https://i.postimg.cc/C55qC1n4/2.webp",
+        "price": 20,
+        "benefits": ["Ticket Priority", "Exclusive Wallpaper Pack", "Ticket presales"]
+      },
+      {
+        "title": "Legendary Red",
+        "image": "https://i.postimg.cc/GtfsXCkn/3.webp",
+        "price": 45,
+        "benefits": ["Behind-the-Scenes Video", "Early Kit Access", "10% Discount"]
+      }
+    ],
+    "ratings": 4.8,
+    "number_of_reviews": 1100
+  },
+  {
+    "id": 5,
+    "name": "Manchester City",
+    "thumbnail": "https://i.postimg.cc/X7kpkk1x/495047420-1279111720245327-245419168850651394-n.jpg",
+    "banner": "https://example.com/images/mancity-banner.jpg",
+    "frequency": "Yearly",
+    "logo": "https://i.postimg.cc/G3g4KJgY/Manchester-City-FC-badge-svg.png",
+    "description": "Celebrate City’s rise with premium fan items and exclusive content just for Cityzens.",
+    "tech_category": "Football Club",
+    "features": [
+      "Exclusive Man City Merchandise",
+      "Fan Art & Stickers",
+      "City Highlights DVD"
+    ],
+    "subscription_benefits": [
+      "Meet & Greet Lottery",
+      "Early Access to Kits",
+      "City Wallpapers Pack"
+    ],
+    "membership_cards": [
+      {
+        "title": "City Lite",
+        "image": "https://i.postimg.cc/prbZqKxB/1.webp",
+        "price": 11,
+        "benefits": ["Newsletter", "5% Store Discount"]
+      },
+      {
+        "title": "City Member",
+        "image": "https://i.postimg.cc/x83K5760/2.webp",
+        "price": 15,
+        "benefits": ["Fan Events", "Early Kit Access"]
+      },
+      {
+        "title": "City Elite",
+        "image": "https://i.postimg.cc/FshbzrK1/3.webp",
+        "price": 35,
+        "benefits": ["15% Store Discount", "Exclusive Video Access"]
+      }
+    ],
+    "ratings": 4.7,
+    "number_of_reviews": 970
+  },
+  {
+    "id": 6,
+    "name": "Atletico Madrid",
+    "thumbnail": "https://i.postimg.cc/RVxRSm9X/istockphoto-1752042847-612x612.jpg",
+    "banner": "https://example.com/images/atletico-banner.jpg",
+    "logo": "https://i.postimg.cc/QxD1wFJt/584a9b63b080d7616d29877a.png",
+    "frequency": "Yearly",
+    "description": "For the Colchoneros fans — a passionate box of red-and-white pride and exclusives.",
+    "tech_category": "Football Club",
+    "features": [
+      "Atleti Fan Gear",
+      "Team Spirit Stickers",
+      "Legends Card Set"
+    ],
+    "subscription_benefits": [
+      "Exclusive Access to Interviews",
+      "Priority Match Tickets",
+      "Behind the Scenes Footage"
+    ],
+    "membership_cards": [
+      {
+        "title": "Child Member",
+        "image": "https://i.postimg.cc/7YjvD2Kg/1.jpg",
+        "price": 8,
+        "benefits": ["Monthly Newsletter", "Exclusive Giveaways"]
+      },
+      {
+        "title": "Youth Member",
+        "image": "https://i.postimg.cc/fRdGbRP1/2.jpg",
+        "price": 12,
+        "benefits": ["Discount Coupons", "Fan Challenges"]
+      },
+      {
+        "title": "Adult Member",
+        "image": "https://i.postimg.cc/VNc30cQv/3.jpg",
+        "price": 29.99,
+        "benefits": ["Video Series", "Fan Kit"]
+      }
+    ],
+    "ratings": 4.5,
+    "number_of_reviews": 740
+  }
+]

@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Barcelona Membership",
+      "thumbnail": "https://i.postimg.cc/zvb5P7dM/beneficis-ecommerce-blur-EN.webp",
+      "logo": "https://i.postimg.cc/xdrvjGXS/b97e2da50337c93b312e6e95fade022f.png",
+      "description":"As a Culer Premium, you will get early access to purchase your tickets for FC Barcelona matches before they are available to the general public"
+    },
+    {
+      "id": 2,
+      "name": "Real Madrid Membership",
+      "logo": "https://i.postimg.cc/SsG1F68S/584a9b47b080d7616d298778.png",
+      "thumbnail": "https://i.postimg.cc/vT8zbH7j/Img-3-Background-1920x1080-Desktop-1.jpg",
+      "description":"As a Culer Premium, you will get early access to purchase your tickets for FC Barcelona matches before they are available to the general public"
+    },
+    {
+      "id": 3,
+      "name": "Arsenal Membership",
+      "logo": "https://i.postimg.cc/W1rncmLB/580b57fcd9996e24bc43c4df.png",
+      "thumbnail": "https://i.postimg.cc/pLj10rsY/wp7710303-arsenal-desktop-4k-wallpapers.jpg",
+      "description":"As a Culer Premium, you will get early access to purchase your tickets for FC Barcelona matches before they are available to the general public"
+    },
+    {
+      "id": 4,
+      "name": "Manchester United Membership",
+      "logo": "https://i.postimg.cc/6psrc72Y/580b57fcd9996e24bc43c4e7.png",
+      "thumbnail": "https://i.postimg.cc/PJxdZYzM/mark-mc-neill-qahbn44-Lczo-unsplash.jpg",
+      "description":"As a Culer Premium, you will get early access to purchase your tickets for FC Barcelona matches before they are available to the general public"
+    },
+    {
+      "id": 5,
+      "name": "Manchester City Membership",
+      "logo": "https://i.postimg.cc/G3g4KJgY/Manchester-City-FC-badge-svg.png",
+      "thumbnail": "https://i.postimg.cc/nz6tsgrn/495047420-1279111720245327-245419168850651394-n.jpg",
+      "description":"As a Culer Premium, you will get early access to purchase your tickets for FC Barcelona matches before they are available to the general public"
+    },
+    {
+      "id": 6,
+      "name": "Atletico Madrid Membership",
+      "logo": "https://i.postimg.cc/QxD1wFJt/584a9b63b080d7616d29877a.png",
+      "thumbnail": "https://i.postimg.cc/RVxRSm9X/istockphoto-1752042847-612x612.jpg",
+      "description":"As a Culer Premium, you will get early access to purchase your tickets for FC Barcelona matches before they are available to the general public"
+    }
+  ]
+  
