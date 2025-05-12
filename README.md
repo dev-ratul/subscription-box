@@ -1,3 +1,5 @@
+project live link: https://animated-cajeta-b1f59c.netlify.app/
+
 1. 🔗 Navigation Bar
 The navigation bar includes:
 
