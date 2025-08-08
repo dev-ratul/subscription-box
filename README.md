@@ -6,8 +6,8 @@ A user-friendly subscription box platform where users can browse, subscribe to, 
 
 ## 🚀 Live Demo
 
-[View Live Website](https://your-live-site-url.web.app)  
-*(Replace with your actual live link)*
+[View Live Website](https://animated-cajeta-b1f59c.netlify.app/)  
+
 
 ---
 
