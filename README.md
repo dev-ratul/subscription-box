@@ -1,70 +1,77 @@
-project live link: https://animated-cajeta-b1f59c.netlify.app/
+# Subscription Box Service Platform
 
-1. 🔗 Navigation Bar
-The navigation bar includes:
+A user-friendly subscription box platform where users can browse, subscribe to, and manage monthly personalized subscription boxes tailored to their interests. The service offers curated boxes ensuring customers receive exciting and relevant products every month.
 
-Project Name (Left)
+---
 
-Pages: Home, Profile, and a separate Subscription button (Center)
+## 🚀 Live Demo
 
-Login/Logout options (Right)
+[View Live Website](https://your-live-site-url.web.app)  
+*(Replace with your actual live link)*
 
-2. 🏠 Home Page
-A responsive slider showcasing changing offers and promotions (using Swiper).
+---
 
-Latest news feed updates about various football clubs.
+## 📝 Project Description
 
-3. 🙍‍♂️ Profile Page (Protected)
-Accessible only after login.
+This project is a Subscription Box Service Platform designed to provide users with a seamless experience to explore and subscribe to monthly curated boxes. Users can create accounts, log in, view subscription details, leave reviews and ratings, and manage their profiles.
 
-Displays:
+The platform features dynamic routing, protected routes to secure private pages, user authentication (email/password & Google login), and responsive design for mobile, tablet, and desktop views. It integrates Firebase for authentication and data storage and uses modern UI libraries like Swiper and DaisyUI for a smooth user interface.
 
-User's name
+---
 
-Email
+## 📸 Screenshot
 
-Profile photo
+Live link: ![Homepage Screenshot](https://i.ibb.co/270ThWn3/Screenshot-152.png)
 
-Allows updating name and profile photo using Firebase's updateProfile().
+*Homepage Screenshot*
 
-4. 📦 Subscription Plans
-Click the Subscription button to view and purchase different plans based on your favorite football club.
 
-After purchasing, users can:
 
-Submit a rating
+---
 
-Write a review
+## 🛠 Technologies Used
 
-View other users' feedback.
+- **Frontend:** React.js, React Router DOM, DaisyUI, Swiper.js  
+- **Backend & Auth:** Firebase Authentication, Firestore  
+- **Styling:** CSS3, Responsive Design  
+- **Notifications:** React-Toastify, SweetAlert2  
+- **Build Tools:** npm, environment variables for secure config  
 
-5. 🔐 Authentication System
-Login/Logout functionality with Firebase authentication.
+---
 
-Google sign-in support.
+## ✨ Core Features
 
-Protected routes to secure personal information.
+- Responsive Navbar with dynamic user info and logout functionality  
+- Home page slider with Swiper.js containing multiple slides  
+- Subscription Services displayed using JSON data with cards including thumbnails, price, category, frequency, and view details button  
+- Protected Subscription Service Details page that allows logged-in users to submit reviews and ratings  
+- User Authentication with email/password and Google sign-in  
+- Forget Password feature that allows users to reset their password (without email verification)  
+- User Profile page where logged-in users can view and update their name and profile photo  
+- Dynamic page titles for better SEO and usability  
+- Custom 404 Not Found page  
+- Additional private route with meaningful content  
+- Show/hide password toggle on registration form  
+- Toast notifications for success and error feedback  
 
-6. 📂 Extra Features
-Fully responsive layout using Tailwind CSS and DaisyUI.
+---
 
-Scroll animation using AOS (optional).
+## 📦 Dependencies
 
-Eye toggle on password fields.
+- react  
+- react-dom  
+- react-router-dom  
+- firebase  
+- swiper  
+- daisyui  
+- react-toastify  
+- sweetalert2  
 
-Forgot Password feature with Firebase email reset.
+---
 
-⚽ Clubs Included
-Users can subscribe to exclusive content and plans of the following clubs:
+## 🚀 How to Run Locally
 
-FC Barcelona
-
-Real Madrid
-
-Arsenal FC
-
-Manchester City
-
-Manchester United
-
-Atletico Madrid
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/dev-ratul/your-client-repo.git
+   cd your-client-repo
